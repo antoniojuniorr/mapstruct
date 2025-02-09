@@ -31,7 +31,7 @@ public class MapstructApplication {
             var usuarioRecord = new UsuarioRecord(
                     "Antonio",
                     "antonio@dev.com",
-                    "senha123",
+                    "123",
                     LocalDateTime.now()
             );
 
